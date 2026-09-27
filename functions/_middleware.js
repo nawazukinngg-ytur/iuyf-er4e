@@ -13,7 +13,7 @@ export async function onRequest(context) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:t" content="😍🎧🎬/>
     <meta property="og:description" content="">
-    <meta property="og:image" content="https://s3.us-east-2.amazonaws.com/img-utils-conversions.pixelied.com/conversions/Sun-Sep-20-2026/ada0d3e7-9946-4158-90ff-0f4c62006a97/404a69d5-7482-4b14-b399-027a6dda6021.tiff">
+    <meta property="og:image" content="https://www.google.com/share.google?q=s351Eb9Yfnt7pkYIY">
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
 </head>
